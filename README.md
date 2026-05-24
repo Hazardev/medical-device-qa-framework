@@ -185,10 +185,10 @@ This is a portfolio project to demonstrate QA methodology, not a production syst
 
 ## Author
 
-- **Sam Bomba**
+- **Scarlett Bomba**
 - **@hazardev**
 
 **Contact:** [samek.bomba@gmail.com]  
-**LinkedIn:** [linkedin.com/in/sambomba]
+**LinkedIn:** [linkedin.com/in/bombas]
 
 ---
