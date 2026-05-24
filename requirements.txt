@@ -1,0 +1,3 @@
+# No external dependencies required
+# Uses only Python standard library (unittest, datetime, typing)
+# Python >= 3.7
